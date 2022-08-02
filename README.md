@@ -1,13 +1,20 @@
 # Pencil-Prop
 a Simple Pencil prop for CVR
 
-#Controls
-Desktop:  LMB = Writing
-          Press E = Erase
+## [Download](https://github.com/Kyobinoyo/Pencil-Prop/releases)
 
-VR:       Trigger = Writing
-          Touch the Rubber for 2 seconds while holding the Pencil = Erase
+<img src="https://i.imgur.com/eFQSlpM.jpeg" alt="drawing" width="300"/>
+
+# Controls
+
+### Desktop:  
+LMB = Writing<br>
+Press E = Erase<br>
+
+### VR:       
+Trigger = Writing<br>
+Touch the Rubber for 2 seconds while holding the Pencil = Erase<br>
           
-#Dependencies
-CCK 3.3+ 
+# Dependencies
+CCK 3.3+ <br>
 Download: https://developers.abinteractive.net/cck/setup/
