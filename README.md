@@ -8,10 +8,12 @@ a Simple Pencil prop for CVR
 # Controls
 
 ### Desktop:  
+RMB = Hold<br>
 LMB = Writing<br>
 Press E = Erase<br>
 
-### VR:       
+### VR:   
+Grab = Hold<br>
 Trigger = Writing<br>
 Touch the Rubber for 2 seconds while holding the Pencil = Erase<br>
           
