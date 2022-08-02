@@ -18,5 +18,4 @@ Trigger = Writing<br>
 Touch the Rubber for 2 seconds while holding the Pencil = Erase<br>
           
 # Dependencies
-CCK 3.3+ <br>
-Download: https://developers.abinteractive.net/cck/setup/
+[CCK 3.3+](https://developers.abinteractive.net/cck/setup/)
