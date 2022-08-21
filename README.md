@@ -11,11 +11,16 @@ a Simple Pencil prop for CVR
 RMB = Hold<br>
 LMB = Writing<br>
 Press E = Erase<br>
+Press R or F to adjust the Color (Hold Left CTRL to skip faster through the Color)<br>
+Press X to reset Color<br>
 
 ### VR:   
 Grab = Hold<br>
 Trigger = Writing<br>
 Touch the Rubber for 2 seconds while holding the Pencil = Erase<br>
-          
+Touch Gear in front for 1 second to Open/Close Color Slider<br>
+Touch Color Slider to Adjust Color<br>
+
 # Dependencies
 [CCK 3.3 or newer](https://developers.abinteractive.net/cck/setup/)
+[Poiyomi Toon 8.0.426 or newer](https://www.poiyomi.com/)
