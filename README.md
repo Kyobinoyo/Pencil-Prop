@@ -22,5 +22,5 @@ Touch Gear in front for 1 second to Open/Close Color Slider<br>
 Touch Color Slider to Adjust Color<br>
 
 # Dependencies
-[CCK 3.3 or newer](https://developers.abinteractive.net/cck/setup/)
+[CCK 3.3 or newer](https://developers.abinteractive.net/cck/setup/)<br>
 [Poiyomi Toon 8.0.426 or newer](https://www.poiyomi.com/)
