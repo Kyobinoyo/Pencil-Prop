@@ -26,8 +26,8 @@ Touch Color Slider to Adjust Color<br>
 [Poiyomi Toon 8.0.426 or newer](https://www.poiyomi.com/)
 
 # FAQ
-Q: You want to use the Pencil in your World?
-A: Go for it!
+Q: You want to use the Pencil in your World?<br>
+A: Go for it!<br>
 
-Q: Can i Edit the Prop and make my own out of it?
+Q: Can i Edit the Prop and make my own out of it?<br>
 A: Sure, just don't claim the Model as your own. (It's something small, but i made it! ;_;)
