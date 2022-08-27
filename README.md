@@ -17,8 +17,8 @@ Press X to reset Color<br>
 ### VR:   
 Grab = Hold<br>
 Trigger = Writing<br>
-Touch the Rubber for 2 seconds while holding the Pencil = Erase<br>
-Touch Gear in front for 1 second to Open/Close Color Slider<br>
+Touch the Rubber = Erase<br>
+Touch Gear on the Pencil 1 second to Open/Close Color Slider<br>
 Touch Color Slider to Adjust Color<br>
 
 # Dependencies
