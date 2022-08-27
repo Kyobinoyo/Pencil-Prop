@@ -23,7 +23,7 @@ Touch Color Slider to Adjust Color<br>
 
 # Dependencies
 [CCK 3.3 or newer](https://developers.abinteractive.net/cck/setup/)<br>
-[Poiyomi Toon 8.0.426 or newer (included in download)](https://www.poiyomi.com/)
+[Poiyomi Toon 8.0.426 or newer](https://www.poiyomi.com/) (included in download)
 
 # FAQ
 Q: You want to use the Pencil in your World?<br>
