@@ -1,5 +1,5 @@
 # Pencil-Prop
-a Simple Pencil prop for CVR
+a simple pencil prop for CVR
 
 ## [Download](https://github.com/Kyobinoyo/Pencil-Prop/releases)
 
