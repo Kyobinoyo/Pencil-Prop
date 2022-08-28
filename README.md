@@ -35,7 +35,7 @@ Touch Gear on the Pencil 1 second to Open/Close Color Slider<br>
 Touch Color Slider to Adjust Color<br>
 
 # FAQ
-Q: You want to use the Pencil in your World?<br>
+Q: Can i use the Pencil in my World?<br>
 A: Go for it!<br>
 
 Q: Can i Edit the Prop and make my own out of it?<br>
