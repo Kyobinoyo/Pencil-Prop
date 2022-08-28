@@ -5,6 +5,10 @@ a Simple Pencil prop for CVR
 
 <img src="https://i.imgur.com/eFQSlpM.jpeg" alt="drawing" width="300"/>
 
+# Dependencies
+[CCK 3.3 or newer](https://developers.abinteractive.net/cck/setup/)<br>
+[Poiyomi Toon 8.0.426 or newer](https://www.poiyomi.com/) (included in download)
+
 # How to Upload to CVR
 1. Create a new Unity Project<br>
 2. Import the Newest CCK<br>
@@ -29,10 +33,6 @@ Trigger = Writing<br>
 Touch the Rubber = Erase<br>
 Touch Gear on the Pencil 1 second to Open/Close Color Slider<br>
 Touch Color Slider to Adjust Color<br>
-
-# Dependencies
-[CCK 3.3 or newer](https://developers.abinteractive.net/cck/setup/)<br>
-[Poiyomi Toon 8.0.426 or newer](https://www.poiyomi.com/) (included in download)
 
 # FAQ
 Q: You want to use the Pencil in your World?<br>
