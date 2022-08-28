@@ -10,8 +10,9 @@ a Simple Pencil prop for CVR
 2. Import the Newest CCK<br>
 3. Import Poiyomi Shader<br>
 4. Import Pencil Prop Package<br>
-5. Upload<br>
-6. Profit<br>
+5. Open the "OPEN ME" file inside the Prop folder<br>
+6. Upload<br>
+7. 7. Profit!<br>
 
 # Controls
 
