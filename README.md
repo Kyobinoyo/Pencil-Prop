@@ -5,6 +5,14 @@ a Simple Pencil prop for CVR
 
 <img src="https://i.imgur.com/eFQSlpM.jpeg" alt="drawing" width="300"/>
 
+# How to Upload to CVR
+1. Create a new Unity Project<br>
+2. Import the Newest CCK<br>
+3. Import Poiyomi Shader<br>
+4. Import Pencil Prop Package<br>
+5. Upload<br>
+6. Profit<br>
+
 # Controls
 
 ### Desktop:  
