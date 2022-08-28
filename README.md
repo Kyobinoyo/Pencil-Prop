@@ -35,10 +35,10 @@ Touch Gear on the Pencil 1 second to Open/Close Color Slider<br>
 Touch Color Slider to Adjust Color<br>
 
 # Known Issue
-Color Change Bugs on Desktop after spawn<br>
+Color change Bugs on Desktop after spawn<br>
 Press X to reset Color once, then it should work.<br>
 
-Color Paramteter can be Higher then 1 (wich is Max) when changing Color in desktop<br>
+Color Paramteter can be higher then 1 (wich is Max) when changing Color in desktop<br>
 For now reset with X to fix it.<br>
 
 # FAQ
