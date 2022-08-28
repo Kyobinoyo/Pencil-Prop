@@ -12,7 +12,7 @@ a Simple Pencil prop for CVR
 4. Import Pencil Prop Package<br>
 5. Open the "OPEN ME" file inside the Prop folder<br>
 6. Upload<br>
-7. 7. Profit!<br>
+7. Profit!<br>
 
 # Controls
 
