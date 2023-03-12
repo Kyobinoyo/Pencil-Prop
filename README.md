@@ -10,7 +10,7 @@ a simple pencil prop for CVR
 [Poiyomi Toon 8.0.426 or newer](https://www.poiyomi.com/) (included in download)
 
 # How to Upload to CVR
-<b>The order is important!</b>
+🚩<b>The order is important!</b>🚩
 1. Create a new Unity Project<br>
 2. Import the Newest CCK<br>
 3. Import Poiyomi Shader<br>
