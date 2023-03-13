@@ -12,7 +12,7 @@ a simple pencil prop for CVR
 # How to Upload to CVR
 🚩<b>The order is important!</b>🚩
 1. Create a new Unity Project<br>
-2. Import the Newest CCK<br>
+2. Import the newest CCK<br>
 3. Import Poiyomi Shader<br>
 4. Import Pencil Prop Package<br>
 5. Open the "OPEN ME" file inside the Prop folder<br>
